@@ -2,6 +2,7 @@
 html {
     font-family: "Raleway", "Helvetica", sans-serif;
     font-weight: 400;
+    width: 710px;
     color: #2F3442;
     height: 100%;
     background-color: #FFFFFF;
@@ -18,7 +19,7 @@ color: #BCD2DA;
     overflow: hidden;
     display:flex;
     flex-direction:column;
-    width: 710px;
+    width: 350px;
 }
 
 .card__description {
@@ -59,6 +60,9 @@ color: #BCD2DA;
     border-radius: 4px;
     overflow: hidden; 
     display:flex;
+    width: 710px;
+    margin-top: 20%;
+    margin-left: 25%;
   }
   
     .cardGroup__card {
@@ -73,5 +77,4 @@ color: #BCD2DA;
     .cardGroup__cardDescription {
       /* flex-grow, flex-shrink, flex-basis */
       flex-grow: 1;
-    
           }
