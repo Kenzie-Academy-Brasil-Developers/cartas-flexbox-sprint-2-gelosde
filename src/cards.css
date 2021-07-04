@@ -79,7 +79,7 @@ color: #BCD2DA;
 
 
 
-@media only screen and (max-width: 450px) {
+@media only screen and (device-width: 450px) {
  body{
   display: flex;
  }
