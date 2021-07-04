@@ -133,10 +133,10 @@ color: #BCD2DA;
     border-radius: 4px;
     overflow: hidden; 
     display:flex;
-    width: 200px;
-    margin-top: 25%;
+    width: 230px;
+    margin-top: 30%;
     margin-left: 25%;
-    margin-right:25;
+    margin-right:27;
   }
   
     .cardGroup__card {
