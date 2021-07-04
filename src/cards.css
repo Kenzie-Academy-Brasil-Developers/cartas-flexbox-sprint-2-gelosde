@@ -81,7 +81,6 @@ color: #BCD2DA;
 
 @media(min-width: 325px){
  body{
-  
   display: flex;
  }
 
@@ -96,14 +95,14 @@ color: #BCD2DA;
     border-radius: 4px;
     overflow: hidden;
     display:flex;
-    flex-direction:block;
+    flex-direction:column;
     width: 100px;
 }
 
 .card__description {
     /* display, flex-direction, justify-content, align-items */
     display:flex;
-    flex-direction:block;
+    flex-direction:column;
     justify-content:center ;
     align-items:center;
     padding: 15px 0;
@@ -145,7 +144,6 @@ color: #BCD2DA;
   
     .cardGroup__card {
       /* flex-grow, flex-shrink, flex-basis */
-
       border: none;
       border-radius: 0;
       border-left: 1px solid #D7DBDD;
