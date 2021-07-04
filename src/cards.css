@@ -1,5 +1,5 @@
 
- body{
+body{
   display: flex;
  }
 
@@ -13,14 +13,14 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
-    display:flex;
+    display:block;
     flex-direction:block;
-    width: 350px;
+    width: 175px;
 }
 
 .card__description {
     /* display, flex-direction, justify-content, align-items */
-    display:flex;
+    display:block;
     flex-direction:block;
     justify-content:center ;
     align-items:center;
@@ -39,12 +39,11 @@ color: #BCD2DA;
     text-align:center;
     max-width: calc(100% - 30px);
 }
-
 .card__price {
     text-align:center;
     color: #57727C;
     font-size: 12px;
-    font-weight: 700;
+    font-weight: 700px;
     padding: 5px 15px;
     border-top: 1px solid #D7DBDD;
     background-color: #EEF3F5;
