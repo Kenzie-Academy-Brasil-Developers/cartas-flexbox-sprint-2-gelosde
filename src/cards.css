@@ -94,7 +94,7 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
-    display:flex;
+    display:block;
     flex-direction: column;
     width: 100px;
 }
