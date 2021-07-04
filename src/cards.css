@@ -81,7 +81,7 @@ color: #BCD2DA;
 
 @media(min-width: 325px){
  body{
-  display: block;
+  display: flex;
  }
 
 
@@ -94,14 +94,14 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
-    display:block;
-    flex-direction:block;
-    width: 150px;
+    display:flex;
+    flex-direction:column;
+    width: 100px;
 }
 
 .card__description {
     /* display, flex-direction, justify-content, align-items */
-    display:block;
+    display:flex;
     flex-direction:block;
     justify-content:center ;
     align-items:center;
@@ -136,7 +136,7 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden; 
-    display:block;
+    display:flex;
     width: 300px;
     margin-top: 20%;
     margin-left: 25%;
