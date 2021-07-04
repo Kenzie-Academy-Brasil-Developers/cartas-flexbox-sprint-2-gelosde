@@ -94,14 +94,14 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
-    display:flex;
+    display:block;
     flex-direction:block;
-    width: 350px;
+    width: 175px;
 }
 
 .card__description {
     /* display, flex-direction, justify-content, align-items */
-    display:flex;
+    display:block;
     flex-direction:block;
     justify-content:center ;
     align-items:center;
@@ -136,8 +136,8 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden; 
-    display:flex;
-    width: 710px;
+    display:block;
+    width: 300px;
     margin-top: 20%;
     margin-left: 25%;
   }
