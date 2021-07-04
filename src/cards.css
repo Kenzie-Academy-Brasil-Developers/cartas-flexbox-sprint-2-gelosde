@@ -96,7 +96,7 @@ color: #BCD2DA;
     overflow: hidden;
     display:block;
     flex-direction:block;
-    width: 175px;
+    width: 150px;
 }
 
 .card__description {
@@ -153,6 +153,6 @@ color: #BCD2DA;
   
     .cardGroup__cardDescription {
       /* flex-grow, flex-shrink, flex-basis */
-      flex-grow: 1;
+      flex-basis: auto;
           }
           }
