@@ -81,7 +81,7 @@ color: #BCD2DA;
 
 @media only screen and (max-width:600px) {
  body{
-  display: block;
+  display: flex;
  }
 
 
@@ -94,14 +94,14 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
-    display:block;
+    display:flex;
+    flex-direction: column;
     width: 100px;
 }
 
 .card__description {
     /* display, flex-direction, justify-content, align-items */
-    display:block;
-    flex-direction:block;
+    display:flex;
     justify-content:center ;
     align-items:center;
     padding: 15px 0;
@@ -135,7 +135,7 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden; 
-    display:block;
+    display:flex;
     width: 200px;
     margin-top: 25%;
     margin-left: 25%;
