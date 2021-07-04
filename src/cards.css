@@ -81,7 +81,7 @@ color: #BCD2DA;
 
 @media only screen and (max-width:600px) {
  body{
-  display: flex;
+  display: block;
  }
 
 
@@ -94,7 +94,7 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
-    display:flex;
+    display:block;
     flex-direction:column;
     width: 100px;
 }
@@ -102,7 +102,7 @@ color: #BCD2DA;
 .card__description {
     /* display, flex-direction, justify-content, align-items */
     display:flex;
-    flex-direction:column;
+    flex-direction:block;
     justify-content:center ;
     align-items:center;
     padding: 15px 0;
