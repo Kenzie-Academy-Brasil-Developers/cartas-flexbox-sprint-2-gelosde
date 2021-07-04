@@ -78,12 +78,9 @@ color: #BCD2DA;
  body{
   display: flex;
  }
-
-
 .icon {
 color: #BCD2DA;
 }
-
 .card { 
     /* display, flex-direction */
     border: 1px solid #CAD0D2;
@@ -91,7 +88,7 @@ color: #BCD2DA;
     overflow: hidden;
     display:flex;
     flex-direction: column;
-    width: 350px;
+    width: 450px;
 }
 
 .card__description {
@@ -131,7 +128,7 @@ color: #BCD2DA;
     border-radius: 4px;
     overflow: hidden; 
     display:flex;
-    width: 350px;
+    width: 450px;
     margin-top:40%;
     margin-right:25%;
   }
