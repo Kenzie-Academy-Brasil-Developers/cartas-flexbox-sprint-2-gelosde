@@ -13,8 +13,8 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
-    display:block;
-    flex-direction:block;
+    display:flex;
+    flex-direction:column;
     width: 350px;
 }
 
@@ -94,7 +94,7 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
-    display:block;
+    display:flex;
     flex-direction: column;
     width: 100px;
 }
