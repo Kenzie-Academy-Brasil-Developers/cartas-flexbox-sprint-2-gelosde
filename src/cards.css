@@ -95,7 +95,7 @@ color: #BCD2DA;
     border-radius: 4px;
     overflow: hidden;
     display:flex;
-    flex-direction:column;
+    flex-direction:block;
     width: 100px;
 }
 
@@ -137,7 +137,7 @@ color: #BCD2DA;
     border-radius: 4px;
     overflow: hidden; 
     display:flex;
-    width: 300px;
+    width: 200px;
     margin-top: 20%;
     margin-left: 25%;
   }
