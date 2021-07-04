@@ -88,7 +88,7 @@ color: #BCD2DA;
     overflow: hidden;
     display:flex;
     flex-direction: column;
-    width: 450px;
+    width: 250px;
 }
 
 .card__description {
@@ -128,7 +128,7 @@ color: #BCD2DA;
     border-radius: 4px;
     overflow: hidden; 
     display:flex;
-    width: 450px;
+    width: 250px;
     margin-top:40%;
     margin-right:25%;
   }
