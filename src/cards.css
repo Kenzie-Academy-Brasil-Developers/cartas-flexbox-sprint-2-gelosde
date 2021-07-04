@@ -21,7 +21,7 @@ color: #BCD2DA;
 .card__description {
     /* display, flex-direction, justify-content, align-items */
     display:flex;
-    flex-direction:block;
+    flex-direction:column;
     justify-content:center ;
     align-items:center;
     padding: 15px 0;
