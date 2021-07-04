@@ -153,6 +153,6 @@ color: #BCD2DA;
   
     .cardGroup__cardDescription {
       /* flex-grow, flex-shrink, flex-basis */
-      flex-basis: auto;
+      flex-shrink: 1;
           }
           }
