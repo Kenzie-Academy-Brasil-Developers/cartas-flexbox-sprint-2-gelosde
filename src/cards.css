@@ -54,7 +54,6 @@ color: #BCD2DA;
     border-radius: 4px;
     overflow: hidden; 
     display:flex;
-    
     width: 710px;
     margin-top: 20%;
     margin-left: 25%;
@@ -92,7 +91,7 @@ color: #BCD2DA;
     overflow: hidden;
     display:flex;
     flex-direction: column;
-    width: 300px;
+    width: 350px;
 }
 
 .card__description {
