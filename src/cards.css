@@ -81,7 +81,7 @@ color: #BCD2DA;
 
 @media(min-width: 325px){
  body{
-  display: flex;
+  display: block;
  }
 
 
