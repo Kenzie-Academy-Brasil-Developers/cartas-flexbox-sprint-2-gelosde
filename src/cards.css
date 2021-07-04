@@ -75,7 +75,6 @@ color: #BCD2DA;
           }
 
 
-
 @media only screen and (max-width:600px) {
  body{
   display: flex;
@@ -93,7 +92,7 @@ color: #BCD2DA;
     overflow: hidden;
     display:flex;
     flex-direction: column;
-    width: 300px;
+    width: 100px;
 }
 
 .card__description {
@@ -133,9 +132,10 @@ color: #BCD2DA;
     border-radius: 4px;
     overflow: hidden; 
     display:flex;
-    width: 300px;
-    margin:33%;
-
+    width: 200px;
+    margin-top: 25%;
+    margin-left: 25%;
+    margin-right:25;
   }
   
     .cardGroup__card {
