@@ -95,13 +95,12 @@ color: #BCD2DA;
     border-radius: 4px;
     overflow: hidden;
     display:block;
-    flex-direction:column;
     width: 100px;
 }
 
 .card__description {
     /* display, flex-direction, justify-content, align-items */
-    display:flex;
+    display:block;
     flex-direction:block;
     justify-content:center ;
     align-items:center;
@@ -136,7 +135,7 @@ color: #BCD2DA;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden; 
-    display:flex;
+    display:block;
     width: 200px;
     margin-top: 25%;
     margin-left: 25%;
