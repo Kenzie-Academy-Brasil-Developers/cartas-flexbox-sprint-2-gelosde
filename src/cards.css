@@ -125,7 +125,7 @@ color: #BCD2DA;
     text-align:center;
     color: #57727C;
     font-size: 12px;
-    font-weight: 170px;
+    font-weight: 130px;
     padding: 5px 15px;
     border-top: 1px solid #D7DBDD;
     background-color: #EEF3F5;
@@ -138,8 +138,9 @@ color: #BCD2DA;
     overflow: hidden; 
     display:flex;
     width: 200px;
-    margin-top: 20%;
+    margin-top: 25%;
     margin-left: 25%;
+    margin-right:25;
   }
   
     .cardGroup__card {
