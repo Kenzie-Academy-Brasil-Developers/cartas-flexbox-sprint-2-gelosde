@@ -92,7 +92,7 @@ color: #BCD2DA;
     overflow: hidden;
     display:flex;
     flex-direction: column;
-    width: 200px;
+    width: 250px;
 }
 
 .card__description {
@@ -133,7 +133,7 @@ color: #BCD2DA;
     overflow: hidden; 
     display:flex;
     width: 300px;
-    margin-top:20%;
+    margin-top:30%;
     margin-right:25%;
   }
   
