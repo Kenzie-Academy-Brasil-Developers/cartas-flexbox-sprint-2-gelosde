@@ -92,7 +92,7 @@ color: #BCD2DA;
     overflow: hidden;
     display:flex;
     flex-direction: column;
-    width: 300px;
+    width: 200px;
 }
 
 .card__description {
