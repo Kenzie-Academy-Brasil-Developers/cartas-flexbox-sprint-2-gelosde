@@ -4,6 +4,7 @@ body{
 
 
 .icon {
+
 color: #BCD2DA;
 }
 
@@ -23,7 +24,7 @@ color: #BCD2DA;
     flex-direction:column;
     justify-content:center ;
     align-items:center;
-    padding: 15px 0;
+    padding: 15px ;
     
 }
 
@@ -74,21 +75,22 @@ color: #BCD2DA;
           }
 
 
-@media only screen and (max-width:600px) {
- body{
-  display: flex;
- }
+@media only screen and (max-width:500px) {
 .icon {
 color: #BCD2DA;
+}
+.cardGroup{
+  display: flex;
+  flex-wrap: wrap;
 }
 .card { 
     /* display, flex-direction */
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
-    display:flex;
+    display:column;
     flex-direction: column;
-    width: 3000px;
+    
 }
 
 .card__description {
